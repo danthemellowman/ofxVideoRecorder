@@ -30,8 +30,9 @@ ofxVideoRecorder relies on [ffmpeg](http://ffmpeg.org) the cross-platform comman
 ### Select Bitrate
 ![Six](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Six.png)
 ### Copy the Stream Name
-### Paste the Stream Name into 
+### Paste the Stream Name into FROM.YOU.TUBE in the OF Example
 ![Seven](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Eight.png)
-### Copy the Stream Name
+### Open the Live Control Room
 ![Nine](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Nine.png)
+### Start the OF App and Check the Connection in the Control Room
 ![Ten](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Ten.png)
