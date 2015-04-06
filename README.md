@@ -17,14 +17,21 @@ ofxVideoRecorder relies on [ffmpeg](http://ffmpeg.org) the cross-platform comman
 	
 	
 ##YouTube Live Streaming
-
-![One]
-![Two]
-![Three]
-![Four]
-![Five]
-![Six]
-![Seven]
-![Eight]
-![Nine]
-![Ten]
+### Open Your Creator Studio
+![One](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20One.png)
+### Select Live Events
+![Two](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Two.png)
+### Add A New Live Events
+![Three](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Three.png)
+### Select Custom Type
+![Four](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Four.png)
+### Create Event
+![Five](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Five.png)
+### Select Bitrate
+![Six](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Six.png)
+### Copy the Stream Name
+### Paste the Stream Name into 
+![Seven](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Eight.png)
+### Copy the Stream Name
+![Nine](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Nine.png)
+![Ten](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Ten.png)

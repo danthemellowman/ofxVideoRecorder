@@ -81,7 +81,7 @@ void testApp::keyReleased(int key){
         bRecording = !bRecording;
         if(bRecording && !vidRecorder.isInitialized()) {
             
-            vidRecorder.setupCustomOutput(vidGrabber.getWidth(), vidGrabber.getHeight(), 30, sampleRate, channels, "-vcodec libx264 -pix_fmt yuv420p -b 1600k -acodec libmp3lame -ar 44100 -threads 6 -qscale 3 -b:a 712000 -bufsize 512k -f flv rtmp://a.rtmp.youtube.com/live2/dan.haxu-2qrz-tbc1-6rya");
+            vidRecorder.setupCustomOutput(vidGrabber.getWidth(), vidGrabber.getHeight(), 30, sampleRate, channels, "-vcodec libx264 -pix_fmt yuv420p -b 1600k -acodec libmp3lame -ar 44100 -threads 6 -qscale 3 -b:a 712000 -bufsize 512k -f flv rtmp://a.rtmp.youtube.com/live2/FROM.YOU.TUBE");
         }
     }
     if(key=='c'){
