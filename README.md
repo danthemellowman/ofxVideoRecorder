@@ -27,7 +27,7 @@ ofxVideoRecorder relies on [ffmpeg](http://ffmpeg.org) the cross-platform comman
 ![Four](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Four.png)
 ### Create Event
 ![Five](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Five.png)
-### Select Bitrate
+### Select A Bitrate from the Drop Down
 ![Six](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Six.png)
 ### Copy the Stream Name
 ### Paste the Stream Name into FROM.YOU.TUBE in the OF Example
