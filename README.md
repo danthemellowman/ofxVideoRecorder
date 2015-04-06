@@ -13,3 +13,18 @@ ofxVideoRecorder relies on [ffmpeg](http://ffmpeg.org) the cross-platform comman
 3. Close the recorder. This closes the pipes and stops the worker threads, once all input pipes are closed, ffmpeg stops listening for new data and will also return.
 4. Goto step 1 to start a new video recording.
 	* Should also support multiple output streams using multiple recorder objects. A new pair of pipes will be created for each object's output.
+	
+	
+	
+##YouTube Live Streaming
+
+![One]
+![Two]
+![Three]
+![Four]
+![Five]
+![Six]
+![Seven]
+![Eight]
+![Nine]
+![Ten]
