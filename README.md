@@ -13,3 +13,26 @@ ofxVideoRecorder relies on [ffmpeg](http://ffmpeg.org) the cross-platform comman
 3. Close the recorder. This closes the pipes and stops the worker threads, once all input pipes are closed, ffmpeg stops listening for new data and will also return.
 4. Goto step 1 to start a new video recording.
 	* Should also support multiple output streams using multiple recorder objects. A new pair of pipes will be created for each object's output.
+	
+	
+	
+##YouTube Live Streaming
+### Open Your Creator Studio
+![One](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20One.png)
+### Select Live Events
+![Two](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Two.png)
+### Add A New Live Events
+![Three](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Three.png)
+### Select Custom Type
+![Four](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Four.png)
+### Create Event
+![Five](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Five.png)
+### Select A Bitrate from the Drop Down
+![Six](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Six.png)
+### Copy the Stream Name
+### Paste the Stream Name into FROM.YOU.TUBE in the OF Example
+![Seven](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Eight.png)
+### Open the Live Control Room
+![Nine](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Nine.png)
+### Start the OF App and Check the Connection in the Control Room
+![Ten](https://raw.githubusercontent.com/danthemellowman/ofxVideoRecorder/master/YouTubeLive/Step%20Ten.png)
